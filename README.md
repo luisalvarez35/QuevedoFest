@@ -37,7 +37,7 @@ Los tipos de gastos seran de todo tipo dependiendo las necesidades del festival.
 ## Diagrama Entidad-Relación
 ---
 
-![Diagrama_ER](\img\QuevedoFest_ER.png)
+![Diagrama_ER](QuevedoFest_ER.png)
 
 # Modelo Logico
 ## Modelo Relacional
@@ -61,7 +61,7 @@ El modelo ya se encuentra nomalizado.
 ## Diagrama de base de datos (notación "Crow's feet" o IDEF1X)
 ---
 
-![Diagrama_BD](\img\DiagramaBaseDatos.PNG)
+![Diagrama_BD](DiagramaBaseDatos.PNG)
 
 ## Creación de tablas y otros objetos
 
